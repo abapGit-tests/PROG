@@ -1,6 +1,6 @@
 *&---------------------------------------------------------------------*
-*& Report ZAG_UNIT_TEST
+*&     Report ZAG_UNIT_TEST
 *&---------------------------------------------------------------------*
 REPORT zag_unit_test.
 
-WRITE 'Hello, World!'.
+  WRITE 'Hello, World!'.
